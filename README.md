@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dprasuna , Prasuna Dash
-- 👀 I’m interested in , mernstack develoapmwnt
-- 🌱 I’m currently learning , backend develoapment
-- 💞️ I’m looking for an internship oppertunity ...
-- 📫 my mail i,d -: prasunadash2005@gmail.com ...
+👋 Hi, I’m Prasuna Dash, also known as @dprasuna.
+👀 I’m passionate about MERN stack development.
+🌱 Currently, I'm diving deep into backend development.
+💼 I'm actively seeking internship opportunities to enhance my skills and contribute to exciting projects.
+📫 Reach out to me at prasunadash2005@gmail.com. Let's connect and collaborate! 🚀
 
 <!---
 dprasuna/dprasuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
