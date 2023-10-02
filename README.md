@@ -1,7 +1,11 @@
-👋 Hi, I’m Prasuna Dash, also known as @dprasuna.
+👋 Hi, I’m Prasuna Dash, also known as @dprasuna.      
+
 👀 I’m passionate about MERN stack development.
+
 🌱 Currently, I'm diving deep into backend development.
+
 💼 I'm actively seeking internship opportunities to enhance my skills and contribute to exciting projects.
+
 📫 Reach out to me at prasunadash2005@gmail.com. Let's connect and collaborate! 🚀
 
 <!---
