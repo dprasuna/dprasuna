@@ -26,7 +26,13 @@
 
 ###
 
-<p align="left">I'm Prasuna Dash ... from india<br><br>- 🔭 I’m am a student  ...<br>- 📚 I'm currently learning  Full stack DEv<br>- ⚡ "Fun Fact: I once coded an entire website while eating a giant pizza! 🍕😄"</p>
+<p align="left">🌱 I’m currently learning Web3.0 & Blockchain <br>
+🤝 I’m looking for help with Full Stack Projects<br>
+💬 Ask me about Web Develoapment<br>
+👨‍💻 All of my projects are available at https://prasuna-dash-page.netlify.app/<br>
+📄 Know about my experiences https://prasuna-dash-page.netlify.app/<br>
+📫 How to reach me prasunadash2005@gmail.com<br>
+⚡ Fun fact I once coded an entire website while eating a giant pizza! 🍕😄"</p>
 
 ###
 
