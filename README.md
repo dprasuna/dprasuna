@@ -13,7 +13,7 @@
 [
   '💻 I am a Full Stack Developer',
   '🎯 Currently working on something interesting, improving my skills',
-  '💛 Indefinite JavaScript enjoyer',
+  '💛 Indefinite Web Developement enjoyer',
   '👯 Eager to work in a good team on a cool project',
   '🌱 I strive to make the code cleaner and the world a better place!',
 ].forEach((e) => { console.log(e) });
